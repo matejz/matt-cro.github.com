@@ -115,18 +115,19 @@ article.technologies{
 	font-family: Arial, Sans-serif;
 	margin-left: 15px;
 }
-article.technologies #set{ /*form inside parent class*/
+article.technologies #set{ /*form, inside parent class*/
 	margin: 5px auto 5px;
 }
 article.technologies #set h1{ /*Title*/
 	color: rgb(224, 108, 31); /*color: Orange*/
-	margin: 0px 0px 0px 5px;
+	margin-left: 5px;
 	font-size: 1.1em;
 	text-shadow: 1px 1px 1px black;
 	letter-spacing: 0.02em;
 }
 article.technologies  #set h2{ /*Type of skill*/
-	margin-left: 10px; /*top right bottom left*/
+	margin-left: 10px;
+	margin-top: 1px;
 	font-style: italic;
 	font-size: 1em;
 	text-shadow: 1px 1px 1px black;
